@@ -1,9 +1,13 @@
 <!-- Banner -->
+<p align="center">
 <img align="center" src="https://i.pinimg.com/736x/76/8b/46/768b46b530ec8b7ba5ab0fd713f0bc2b.jpg" />
 
-<h1 align="center">👋 Xin chào, mình là Tôn Hoàng Nhớ</h1>
+<h1 align="center">
+  <a href="#" style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; animation: gradient 3s ease infinite;">
+    👋 Xin chào, mình là Tôn Hoàng Nhớ
+  </a>
+</h1>
 <h3 align="center">Sinh viên CNTT tại ĐH GTVT TP.HCM | Yêu thích công nghệ 🚀</h3>
-
 ---
 
 ### 💡 Giới thiệu nhanh
