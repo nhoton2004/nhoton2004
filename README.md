@@ -1,16 +1,29 @@
-## Hi there 👋
+<img align="center" src="https://raw.githubusercontent.com/itkhair05/itkhair05/main/banner.png" />
 
-<!--
-**nhoton2004/nhoton2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Xin chào, mình là Tôn Hoàng Nhớ</h1>
+<h3 align="center">Automating Everything with Code 💡</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack & Công cụ
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,vscode,github,git" />
+</p>
+
+---
+
+### 📊 Phân tích GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Liên hệ
+<p align="center">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+</p>
